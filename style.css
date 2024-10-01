@@ -1,0 +1,66 @@
+html, body {
+    background-color: lightgrey;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Noto Serif Thai", serif;
+}
+
+.top-header {
+    background-color: rgb(56, 55, 55);
+}
+
+.menu-item {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.brand {
+    font-size: 18px;
+    font-weight: 600px;
+}
+
+.home {
+    margin-top: 5px;
+    text-align: center;
+    display: inline-block;
+}
+
+.homecon {
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 820px;
+}
+
+.button {
+    color: white;
+    background-color: rgb(66, 64, 64);
+    padding: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-right: 150px;
+    display: grid ;
+    grid-template-columns: 1fr;
+    grid-template-rows: 20px;
+}
+
+.contact {
+    text-align: center;
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    display: inline-block;
+}
+
+.bottom-footer {
+    background-color: rgb(109, 103, 103);
+    padding: 20px;
+    text-align: center;
+}
