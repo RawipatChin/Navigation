@@ -40,14 +40,17 @@ html, body {
 .button {
     color: white;
     background-color: rgb(66, 64, 64);
-    padding: 50px;
+    padding: 20px;
     text-align: center;
     text-decoration: none;
-    margin-top: 50px;
-    margin-right: 150px;
+    margin-top: 20px;
+    margin-right: 10px;
     display: grid ;
-    grid-template-columns: 1fr;
     grid-template-rows: 20px;
+}
+
+.faculty {
+    margin: 15px;
 }
 
 .contact {
