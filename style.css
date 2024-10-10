@@ -29,6 +29,7 @@ html, body {
 
 .homecon {
     text-align: center;
+    margin-bottom: 50px;
 }
 
 .grid {
@@ -57,10 +58,13 @@ html, body {
     text-align: center;
     background-color: aliceblue;
     margin: 10px;
+    margin-left: 40px;
     padding: 15px;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
     display: inline-block;
 }
+
+
 
 .bottom-footer {
     background-color: rgb(109, 103, 103);
